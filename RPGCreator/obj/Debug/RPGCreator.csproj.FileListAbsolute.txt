@@ -1,0 +1,14 @@
+D:\RPGCreator\RPGCreator\bin\Debug\RPGCreator.exe.config
+D:\RPGCreator\RPGCreator\bin\Debug\RPGCreator.exe
+D:\RPGCreator\RPGCreator\bin\Debug\RPGCreator.pdb
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.csproj.AssemblyReference.cache
+D:\RPGCreator\RPGCreator\obj\Debug\MainWindow.baml
+D:\RPGCreator\RPGCreator\obj\Debug\MainWindow.g.cs
+D:\RPGCreator\RPGCreator\obj\Debug\App.g.cs
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator_MarkupCompile.cache
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.g.resources
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.Properties.Resources.resources
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.csproj.GenerateResource.cache
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.csproj.CoreCompileInputs.cache
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.exe
+D:\RPGCreator\RPGCreator\obj\Debug\RPGCreator.pdb
